@@ -1,5 +1,5 @@
 #ifndef _PA10_INTERFACE
-#define PA10_INTERFACE
+#def _PA10_INTERFACE
 
 struct pa10controlaxismessage
 {
@@ -30,19 +30,25 @@ struct pa10statusmessage
   short int driverstatus; // 2 Bytes - Needs documentation
 };
 
-void pa10open(void);
+int pa10open(void);
+
+
+
 /*
  * Initialize pa10 interface
+ * Returns: 0 on success, -1 on fail
  */
 
-void pa10close(void);
+int pa10close(void);
 /*
  * Close the pa10 interface
+ * Returns: 0 on success, -1 on fail
  */
 
-void pa10control(struct pa10controlmessage);
+int pa10control(struct pa10controlmessage);
 /*
  * Send control message to pa10 robot
+ * Returns: 0 on success, -1 on fail
  */
 
 pa10statusmessage pa10status(void);
@@ -57,4 +63,3 @@ void pa10breakerelease();
  */
 
 #endif
-
