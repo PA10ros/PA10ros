@@ -1,0 +1,16 @@
+/home/dellux09/ros_workspace/pa10control/build/CMakeFiles/ROSBUILD_genmsg_cpp.dir
+/home/dellux09/ros_workspace/pa10control/build/CMakeFiles/ROSBUILD_genmsg_lisp.dir
+/home/dellux09/ros_workspace/pa10control/build/CMakeFiles/ROSBUILD_gensrv_cpp.dir
+/home/dellux09/ros_workspace/pa10control/build/CMakeFiles/ROSBUILD_gensrv_lisp.dir
+/home/dellux09/ros_workspace/pa10control/build/CMakeFiles/clean-test-results.dir
+/home/dellux09/ros_workspace/pa10control/build/CMakeFiles/pa10Controller.dir
+/home/dellux09/ros_workspace/pa10control/build/CMakeFiles/rosbuild_precompile.dir
+/home/dellux09/ros_workspace/pa10control/build/CMakeFiles/rosbuild_premsgsrvgen.dir
+/home/dellux09/ros_workspace/pa10control/build/CMakeFiles/rospack_genmsg.dir
+/home/dellux09/ros_workspace/pa10control/build/CMakeFiles/rospack_genmsg_libexe.dir
+/home/dellux09/ros_workspace/pa10control/build/CMakeFiles/rospack_gensrv.dir
+/home/dellux09/ros_workspace/pa10control/build/CMakeFiles/test.dir
+/home/dellux09/ros_workspace/pa10control/build/CMakeFiles/test-future.dir
+/home/dellux09/ros_workspace/pa10control/build/CMakeFiles/test-results.dir
+/home/dellux09/ros_workspace/pa10control/build/CMakeFiles/test-results-run.dir
+/home/dellux09/ros_workspace/pa10control/build/CMakeFiles/tests.dir
